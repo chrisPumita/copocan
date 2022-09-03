@@ -43,7 +43,7 @@
                     <div class="footer_widget">
                         <div class="footer_logo">
                             <a href="#">
-                                <img src="img/Logo.svg"  width="90" alt="">
+                                <img src="img/logo_circle.svg"  width="90" alt="">
                             </a>
                         </div>
                         <p class="address_text">Plaza San Ildefonso, Nicolás Romero, Estado de México

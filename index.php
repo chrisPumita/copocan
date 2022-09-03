@@ -92,7 +92,7 @@
                     <div class="slider_text">
                         <h3>Los cuidamos<br> <span>tanto como tú</span></h3>
                         <p>Salud y vida plena para tus mascotas</p>
-                        <a href="contact.html" class="boxed-btn4">Contacto</a>
+                        <a href="contact.php" class="boxed-btn4">Contacto</a>
                     </div>
                 </div>
             </div>
@@ -140,8 +140,6 @@
                             <li>Baño Doble Manto</li>
                             <li>Baño+Corte</li>
                         </ul>
-                        <a href="about.html" class="boxed-btn4 mt-3">Catálogo de servicio</a>
-                        <a href="about.html" class="boxed-btn4 mt-3">Catálogo Doble Manto</a>
                     </div>
                 </div>
             </div>
@@ -199,6 +197,12 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-12 d-flex  align-items-center justify-content-center">
+                <div class="row  align-items-center justify-content-center">
+                    <a href="#" class="boxed-btn3 m-3" data-toggle="modal" data-target="#exampleModal">Catálogo de servicio</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -237,7 +241,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5 col-md-6 order-0 order-md-1">
                             <div class="pet_thumb">
-                                <img src="img/about/pet_care_2.png" alt="Perrito">
+                                <img src="img/about/Coponera-min.png" alt="Coponera">
                             </div>
                         </div>
                         <div class="col-lg-6 offset-lg-1 col-md-6 order-1 order-md-0">
@@ -281,7 +285,7 @@
                         <p>
                             En Copocan nos importa el bienestar de tu mascota, por eso ofrecemos los mejores accesorios y snacks
                         </p>
-                        <a href="contact.html" class="boxed-btn3">Ver catálogo de productos</a>
+                        <a href="https://api.whatsapp.com/send?phone=5215627458480" target="_blank" class="boxed-btn3"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contactar</a>
                     </div>
                 </div>
             </div>
@@ -290,7 +294,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
                             <div class="single_adapt text-center">
-                                <img src="img/adapt_icon/1.png" alt="">
+                                <img src="img/adapt_icon/services_icon.svg" alt="">
                                 <div class="adapt_content">
                                     <h3><span class="counter">600</span>+</h3>
                                     <p>Servicios estéticos realizados</p>
@@ -299,14 +303,14 @@
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="single_adapt text-center">
-                                <img src="img/adapt_icon/3.png" alt="">
+                                <img src="img/adapt_icon/accesorios_icon.svg" alt="">
                                 <div class="adapt_content">
                                     <h3><span class="counter">30</span>+</h3>
                                     <p>variedad de accesorios</p>
                                 </div>
                             </div>
                             <div class="single_adapt text-center">
-                                <img src="img/adapt_icon/2.png" alt="">
+                                <img src="img/adapt_icon/care_pets_icon.svg" alt="">
                                 <div class="adapt_content">
                                     <h3><span class="counter">250</span>+</h3>
                                     <p>mascotas protegidas</p>
@@ -384,7 +388,7 @@
                         </p>
                     </div>
                     <div class="contact_btn d-flex align-items-center justify-content-center">
-                        <a href="contact.html" class="boxed-btn4">¡Contáctanos!</a>
+                        <a href="contact.php" class="boxed-btn4">¡Contáctanos!</a>
                         <p>O llámanos  <a href="#"> 56 2745 8480</a></p>
                     </div>
                 </div>
@@ -392,10 +396,9 @@
         </div>
     </div>
 </div>
-
 <?php include_once "./include/footer.php"?>
 <?php include_once "./include/js.php"?>
-
+<?php include_once "./modal-catalog.php"?>
 </body>
 
 </html>

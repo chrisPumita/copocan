@@ -82,7 +82,7 @@
 <?php include_once "./include/header.php"?>
 
 <!-- bradcam_area_start -->
-<div class="bradcam_area breadcam_bg">
+<div class="bradcam_area breadcam_bg" style="background-image: url(./img/banner/contact_bg.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

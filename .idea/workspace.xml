@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a317550-dd0a-4ccb-8213-afe1f01a7eb6" name="Changes" comment="" />
+    <list default="true" id="9a317550-dd0a-4ccb-8213-afe1f01a7eb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PDF_ServicesCopocan_2022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about/Coponera-min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/adapt_icon/accesorios_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/adapt_icon/care_pets_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/adapt_icon/services_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo_circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modal-catalog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner/contact_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner/contact_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,20 +37,29 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Dlm4st3rgghtSQnYapmM96KKgB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/xampp/htdocs/sicep",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\copocan" />
+      <recent name="C:\xampp\htdocs\copocan\img" />
+      <recent name="C:\xampp\htdocs\copocan\img\about" />
+      <recent name="C:\xampp\htdocs\copocan\img\banner" />
+      <recent name="C:\xampp\htdocs\copocan\img\adapt_icon" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,10 +72,22 @@
       <workItem from="1661295902749" duration="13076000" />
       <workItem from="1661315929608" duration="32000" />
       <workItem from="1661358136251" duration="64000" />
+      <workItem from="1662218921753" duration="6845000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
